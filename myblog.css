@@ -5,8 +5,7 @@ Name:     Awesome Inc.
 Designer: Tina Chen
 URL:      tinachen.org
 ----------------------------------------------- */
-/* Variable definitions
-====================
+
 <Variable name="keycolor" description="Main Color" type="color" default="#ffffff" value="#ffffff"/>
 <Group description="Page" selector="body">
 <Variable name="body.font" description="Font" type="font"
@@ -150,7 +149,7 @@ default="$(body.background.size)" value="auto"/>
 <Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
 default="transparent none repeat scroll top left" value="transparent none repeat scroll top left"/>
 <Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff"  value="#ffffff"/>
-*/
+
 /* Content
 ----------------------------------------------- */
 body {
